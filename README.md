@@ -1,2 +1,6 @@
 # FabioSM2009.github.io
-Aulas e estudos do curso de HTML da Supergeeks.
+Olá!
+<br>
+Este é meu repositório de aulas e estudos da Supergeeks.
+<br>
+Para acessar meu site, basta escrever na barra de pesquisa: "FabioSM2009.github.io".
