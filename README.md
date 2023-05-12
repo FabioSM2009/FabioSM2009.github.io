@@ -3,6 +3,7 @@ Olá!
 <br>
 Este é meu repositório de aulas e estudos da Supergeeks.
 <br>
-Para acessar meu site, basta escrever na barra de pesquisa: "FabioSM2009.github.io".
+Para acessar meu site, instale a pasta "Estudos" e acesse o arquivo "index.html" com qualquer IDE que suporta HTML.
 <br>
-Por favor, não faça <mark>bagunça</mark>
+Por favor, não faça <mark>bagunça</mark>.
+
