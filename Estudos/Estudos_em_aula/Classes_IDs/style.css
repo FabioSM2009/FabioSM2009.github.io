@@ -54,6 +54,6 @@
 
 .inicio:hover{ /* Cria uma função quando o mouse passar por cima da div */
     background-color: rgb(198, 185, 154); 
-    transition: 1s;  /* Tempo da transição entre as cores */
+    transition: 500ms;  /* Tempo da transição entre as cores */
     cursor: pointer; /* Muda o cursor para a mãozinha assim que o mouse passar por cima. */
 }
