@@ -31,8 +31,8 @@
     width: 50%;
 }
 
-.banner div{ /* No CSS, para mencionar "filhos" de um item, podemos inserir o nome dos "filhos" depois do "pai" no código. */
-    background-color: blanchedalmond;
+.banner div{ /* No CSS, para mencionar "filhos" de um item, podemos inserir o nome dos "pai" depois do "filhos" no código. */
+    background-color: blanchedalmond; /* Ex: pai = .banner / filhos = div */
     text-emphasis-position: cen;
     margin: 10px 300px;
     color: rgb(158, 158, 137);
