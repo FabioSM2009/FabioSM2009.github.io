@@ -398,9 +398,30 @@ label:hover{
 .elementosnoticia4{
     display: flex;
     justify-content: center;
+    gap: 40px;
 }
 
 #carouselExampleFade2{
     width: 600px;
     height: 370px;
+}
+
+.conjuntodeelementos4{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+#valoribovespa{
+    display: flex;
+    gap: 5px;
+}
+
+#valoribovespa *{
+    margin: 0;
+}
+
+.conjuntodecards3{
+    display: flex;
+    gap: 40px;
 }
