@@ -141,6 +141,8 @@ label:hover{
     transition: 300ms;
 }
 
+/*-------------NOTICIA 1-------------*/
+
 .noticias1{
     display: flex;
     flex-direction: column;
@@ -153,7 +155,7 @@ label:hover{
     display: flex;
     justify-content: center;
     width: 700px;
-    height: 300px;
+    height: 200px;
     flex-direction: column;
 }
 
@@ -243,6 +245,8 @@ label:hover{
     height: 210px;
 }
 
+/*-------------NOTICIA 2-------------*/
+
 .noticias2{
     display: flex;
     flex-direction: column;
@@ -251,7 +255,6 @@ label:hover{
     width: 100%;
     height: 700px;
 }
-
 #topico2{
     padding: 40px;
 }
@@ -277,6 +280,11 @@ label:hover{
     gap: 150px;
 }
 
+#carouselExampleFade{
+    width: 652px;
+    height: 652px;
+}
+
 .grupodecards{
     width: 630px;
     display: flex;
@@ -284,6 +292,115 @@ label:hover{
     gap: 50px;
 }
 
+/*-------------NOTICIA 3-------------*/
 
+.noticias3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 850px;
+}
 
+#topico3{
+    height: 200px;
+}
 
+.elementosnoticia3{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.grupodecards3{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.grupodetexto3{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.conjuntodecards{
+    display: flex;
+    gap: 40px;
+}
+
+.textonoticia3{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.titulonoticia3{
+    font-size: 32px;
+    width: 650px;
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    color: black;
+}
+
+.subtitulonoticia3{
+    width: 650px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+}
+
+.grupodesetas{
+    display: flex;
+    gap: 40px;
+}
+
+.conjuntodesetas{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.conjuntodesetas > a{
+    text-decoration: none;
+}
+
+.seta{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 300px;
+}
+.seta > img{
+    width: 20px;
+}
+.seta > label{
+    color: black;
+}
+
+/*-------------NOTICIA 3-------------*/
+
+.noticias4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 850px;
+}
+
+#topico4{
+    height: 200px;
+}
+
+.elementosnoticia4{
+    display: flex;
+    justify-content: center;
+}
+
+#carouselExampleFade2{
+    width: 600px;
+    height: 370px;
+}
